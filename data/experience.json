@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Technical Solutions Engineer",
+        "company":"Epic Systems",
+        "summary":"Technical Solutions\n- Helping Analysts",
+        "range":"Summer 2019 - Present"
+    },
+    {
+        "role":"Engineering Co-op",
+        "company":"WLS Stamping",
+        "summary":"- Developed prototyping and permanent die sets for manufacturing of stamped parts\n- Handled quotes and layout for laser cut parts, leading to development of hundreds of new products for customers\n- Worked on team to implement new company-wide ERP software for more efficient product management",
+        "range":"Summer 2018 - Winter 2018"
+    },
+    {
+        "role":"Technical Co-op",
+        "company":"SIFCO Industries",
+        "summary":"- Coordinated development of Lab Inventory Management System to improve quality reporting and tracking, leading to improved response time for test failures\n- Assisted in certifying over $700,000 of SIFCO product prior to shipment\n- Documented and improved quality department’s product review process to improve tracking and reduce storage times",
+        "range":"Spring 2017 - Summer 2017"
+    },
+    {
+        "role":"Tier Two IT Technician",
+        "company":"Case Western Reserve University",
+        "summary":"- Provided Blackboard™ and hardware assistance to students and faculty to facilitate better use of the site\n- Assisted in new Learning Management System deployment for over 10,000 faculty and students\n- Developed automated tools to increase faculty productivity",
+        "range":"Summer 2014 - Summer 2019"
+    }
+]

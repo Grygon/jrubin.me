@@ -1,0 +1,34 @@
+[
+	{
+		"name":"CSWA",
+		"description": "Certified SolidWorks Associate",
+		"badge":"./img/CSWA.png"
+	},
+	{
+		"name":"CSWP",
+		"description": "Certified SolidWorks Professional",
+		"badge":"./img/CSWP.webp",
+        "proof":"./Certificate_C-FZX8SQYWHK.pdf"
+	},
+	{
+		"name":"Epic Certified - Epic Client Systems Administrator",
+		"description": "Certified in server setup and maintenance",
+		"badge":"./img/epic.webp"
+	},
+	{
+		"name":"Epic Certified - Patient Experience",
+		"description": "Certified in MyChart and Welcome applications",
+		"badge":"./img/epic.webp"
+	},
+	{
+		"name":"Epic Certified - Reporting",
+		"description": "Certified in Clarity, Cogito and Caboodle Models and Administration",
+		"badge":"./img/epic.webp"
+	},
+    {
+        "name":"GitLab Certified Associate",
+        "description": "Certified in basic Git commands for branching, merging, and remote work, and apply fundamental concepts and skills using GitLab within the DevOps lifecycle.",
+        "badge":"./img/GitLabCA.png",
+        "proof":"https://gitlab.badgr.com/public/assertions/Lt8s9besQ5OAPds6Tol_YA"
+    }
+]

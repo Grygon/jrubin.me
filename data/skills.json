@@ -1,0 +1,37 @@
+[
+    {
+        "grouping":"Architecture",
+        "skills":[ "IP Networking","DNS","Load Balancing","RESTful APIs"]
+    },
+    {
+        "grouping":"Languages, Operating Systems & Tools",
+        "skills":[ 
+            "Java",
+            "Python",
+            "git",
+            "linux",
+            "typescript",
+            "javascript",
+            "MUMPS",
+            "MATLAB",
+            "bash",
+            "SASS"
+        ]
+    },
+    {
+        "grouping":"Platform Development & Administration",
+        "skills":[ "Ubuntu","Docker","NGINX","Windows Server","IIS Web Server", "Caddy","GitLab"]
+    },
+    {
+        "grouping":"Engineering",
+        "skills":[
+            {"name":"SolidWorks","icon":"sequelize"}
+        ]
+    },
+    {
+        "grouping":"Other",
+        "skills":[
+            "Fluent in Danish"
+        ]
+    }
+]
