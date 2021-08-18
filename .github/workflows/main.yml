@@ -3,8 +3,12 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      # When publish is pushed to
+      - publish
   pull_request:
+    branches:
+      # When publish is or merged onto
+      - publish
   
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
