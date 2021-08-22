@@ -1,9 +1,5 @@
 [
     {
-        "grouping":"Architecture",
-        "skills":[ "IP Networking","DNS","Load Balancing","RESTful APIs"]
-    },
-    {
         "grouping":"Languages, Operating Systems & Tools",
         "skills":[ 
             "Java",
@@ -12,26 +8,59 @@
             "Linux",
             "Typescript",
             "Javascript",
-            "MUMPS",
+            {"name":"MUMPS","icon":"database"},
             "MATLAB",
             "bash",
-            "SASS"
+            "SASS",
+            "R"
+        ]
+    },
+    {
+        "grouping":"Architecture",
+        "skills":[ 
+            {
+                "name":"IP Networking",
+                "icon":"network-wired"
+            },
+            {
+                "name":"DNS",
+                "icon":"globe"
+            },
+            {
+                "name":"Load Balancing",
+                "icon":"server"
+            },
+            {
+                "name":"RESTful APIs",
+                "icon":"project-diagram"
+            }
         ]
     },
     {
         "grouping":"Platform Development & Administration",
-        "skills":[ "Ubuntu","Docker","NGINX","Windows Server","IIS Web Server", "Caddy","GitLab"]
+        "skills":[ 
+            "Ubuntu",
+            "Docker",
+            {"name":"Docker Compose","icon":"docker"},
+            "NGINX",
+            {"name":"Windows Server","icon":"windows"},
+            {"name":"IIS Web Server","icon":"windows"},
+            {"name":"Caddy","icon":"lock"},
+            "GitLab"]
     },
     {
         "grouping":"Engineering",
         "skills":[
-            {"name":"SolidWorks","icon":"sequelize"}
+            {"name":"SolidWorks","icon":"cubes"},
+            {"name":"SolidWorks FEA","icon":"object-group"},
+            {"name":"Mechanical Design","icon":"ruler-combined"}
         ]
     },
     {
         "grouping":"Other",
         "skills":[
-            "Fluent in Danish"
+            {"name":"Fluent in Danish","icon":"comment"},
+            {"name":"Expert in Epic Patient Experience Build","icon":"laptop-medical"}
         ]
     }
 ]
