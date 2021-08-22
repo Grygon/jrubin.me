@@ -3,7 +3,6 @@
   "date": "2021-08-18T00:23:56-05:00",
   "image": "/img/projects/fvtt-lancer.png",
   "link": "https://github.com/Eranziel/foundryvtt-lancer",
-  "image": "/img/projects/fvtt-lancer.png",
   "description": "A major hobby of mine recently. Primary collaborator on implementing the Lancer RPG system in FoundryVTT",
   "tags": ["WebDev","Typescript","SysAdmin","FoundryVTT"],
   "fact": "",

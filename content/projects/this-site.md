@@ -3,7 +3,6 @@
   "date": "2021-08-17T16:14:49-05:00",
   "image": "/img/projects/this-site.png",
   "link": "https://github.com/grygon/jrubin.me",
-  "image": "/img/projects/this-site.png",
   "description": "The implementation of this website. Utilizing a customized Hugo template as its base, with customization and a CI/CD pipeline for automatic deployment",
   "tags": ["WebDev","GitLab CI/CD","HUGO","SysAdmin"],
   "fact": "",
